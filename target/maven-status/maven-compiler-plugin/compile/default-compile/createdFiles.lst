@@ -1,0 +1,15 @@
+com\example\social_media_app\repo\MessageRepository.class
+com\example\social_media_app\conf\WebSocketConfig.class
+com\example\social_media_app\repo\UserRepository.class
+com\example\social_media_app\controller\MessageController.class
+com\example\social_media_app\controller\UserController.class
+com\example\social_media_app\service\UserService.class
+com\example\social_media_app\entity\Message.class
+com\example\social_media_app\conf\SecurityConfig.class
+com\example\social_media_app\controller\PostController.class
+com\example\social_media_app\SocialMediaAppApplication.class
+com\example\social_media_app\entity\Post.class
+com\example\social_media_app\entity\UserEntity.class
+com\example\social_media_app\service\PostService.class
+com\example\social_media_app\repo\PostRepository.class
+com\example\social_media_app\service\MessageService.class
